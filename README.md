@@ -105,7 +105,6 @@
 2. **Deep Learning for Vision Systems** *(번역본: 비전 시스템을 위한 딥러닝)* — Mohamed Elgendy, Manning Publications Co., 2020
 3. **딥러닝 파이토치 교과서** — 서지영, 길벗, 2022
 4. **컴퓨터 비전과 딥러닝** — 오일석, 한빛아카데미, 2023
-5. **지능화 캡스톤 프로젝트** *(부교재)* — 김현용, 2024
 
 ---
 
